@@ -1,4 +1,4 @@
-FROM node:10-stretch
+FROM node:10-alpine
 
 ENV IONIC_VERSION=4.12.0
 
